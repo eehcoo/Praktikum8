@@ -1,0 +1,109 @@
+{
+    "menu": [
+        {
+            "kategori": "makanan",
+            "nama": "Ayam Geprek",
+            "deskripsi": "ayam goreng tepung dengan cara digeprek/ditumbuk dengan ulekan bersamaan dengan sambalnya hingga daging menjadi rata.",
+            "harga": 20000,
+            "gambar": "ayam geprek.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Bento",
+            "deskripsi": "nasi,beserta lauk yang berupa chiken katsu dan tambahan saus serta salad yang segar.",
+            "harga": 15000,
+            "gambar": "bento.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Burger",
+            "deskripsi": "Kombinasi dari roti dan daging sapi yang dipadukan dengan sayuran segar ketika menyentuh lidah.",
+            "harga": 15500,
+            "gambar": "burger.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Nasi Goreng",
+            "deskripsi": "paduan dari nasi,bumbu,dan toping yang akan menggoyang lidah.",
+            "harga": 15000,
+            "gambar": "nasi goreng.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Nasi Kebuli",
+            "deskripsi": "hidangan nasi kaya akan rempah dengan aroma khas bercita rasa gurih.",
+            "harga": 18000,
+            "gambar": "nasi kebuli.jpg"
+        },
+        {
+            "kategori": "snack",
+            "nama": "Donat",
+            "deskripsi": "cake mini ataupun kue kering dengan bentuk seperti cincin serta dilapisi dengan toping manis semanis janjinya.",
+            "harga": 5000,
+            "gambar": "donat.jpg"
+        },
+        {
+            "kategori": "snack",
+            "nama": "Kentang Goreng",
+            "deskripsi":"hidangan yang dibuat dari potongan-potongan kentang yang digoreng dalam minyak goreng panas.",
+            "harga": 15000,
+            "gambar": "kentang goreng.jpg"
+        },
+        {
+            "kategori": "snack",
+            "nama": "Kentang Wedges",
+            "deskripsi": "potongan kentang yang gurih yang pas untuk temen ngobrol kamu.",
+            "harga": 18000,
+            "gambar": "kentang wedges.jpg"
+        },
+        {
+            "kategori": "snack",
+            "nama": "Nuget",
+            "deskripsi": "olahan dari daging berbentuk unik yang digoreng renyah,ditemanin dengan saus",
+            "harga": 18000,
+            "gambar": "nuget.jpg"
+        },
+        {
+            "kategori": "snack",
+            "nama": "Roti Bakar",
+            "deskripsi": "roti isi selai yang di panggang dengan sepenih hati.",
+            "harga": 15000,
+            "gambar": "roti bakar.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Choco Mint",
+            "deskripsi": "kesegaran mint di padukan dengan manisnya coklat",
+            "harga": 24000,
+            "gambar": "choco-mint.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Toffee Coffee",
+            "deskripsi": "pahitnya kopi digabung dengan susu ",
+            "harga": 24000,
+            "gambar": "toffee-coffee.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Green Tea Shake",
+            "deskripsi": "milkshake unggulan dengan rasa green tea asli",
+            "harga": 24000,
+            "gambar": "green-tea-shake.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Strawberry Milkshake",
+            "deskripsi": "milkshake unggulan dengan rasa strawberry asli",
+            "harga": 24000,
+            "gambar": "strawberry-milkshake.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Chocolate Milkshake",
+            "deskripsi": "milkshake unggulan dengan rasa coklat asli",
+            "harga": 24000,
+            "gambar": "chocolate-milkshake.jpg"
+        }
+    ]
+}
